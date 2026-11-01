@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Eclipse generated build folders
+Debug/
+Release/
+
+# Compiled files
+*.o
+*.d
